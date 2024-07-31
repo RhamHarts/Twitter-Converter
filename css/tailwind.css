@@ -1,0 +1,13 @@
+/* css/tailwind.css */
+:root {
+    --color-primary: #1DA1F2;
+    --color-secondary: #14171A;
+    --color-background: #ffffff;
+    --color-text: #657786;
+  }
+  
+  /* Import Tailwind CSS */
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+  
